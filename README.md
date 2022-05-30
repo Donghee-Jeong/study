@@ -2,7 +2,6 @@
 
 ## PostgreSQL 연결
 ```java
-import javax.xml.transform.Result;
 import java.sql.*;
 
 public class Postgresql {
